@@ -3,7 +3,8 @@
 If you're reading this, you probably want to learn something about me. Here's some information for you:
 
 ## About Me
-Name: [Veysel]\n
+Name: [Veysel]
+
 Email: [vsincar@gmail.com]
 
 ## Interests
