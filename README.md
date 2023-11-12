@@ -9,7 +9,7 @@ Email: [vsincar@gmail.com]
 
 ## Interests
 - I'm a passionate developer interested in application and game programming.
-- Currently learning the Python programming language and working on various projects.
+- Currently learning Python, Javascript, HTML and CSS programming language and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
 ## Goals
