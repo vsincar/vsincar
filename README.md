@@ -9,10 +9,11 @@ Email: [vsincar@gmail.com]
 
 ## Interests
 - I'm a passionate developer interested in application and game programming.
-- Currently learning Python, Javascript, HTML and CSS programming language and working on various projects.
+- Currently learning React Native, Javascript, HTML and CSS programming language and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
 ## Goals
+- Developing in the fields of UI and UX as well as mobile application development.
 - Enhancing my programming skills to create creative and user-centric projects.
 - Collaborating with globally recognized companies on large-scale projects.
 
