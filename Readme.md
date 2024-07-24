@@ -18,57 +18,13 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Skills
 
-<div style="display: flex; flex-direction: column;">
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">HTML, CSS:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 90%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>90%</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">Bootstrap:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>80%</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">JavaScript, Angular, TypeScript:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 65%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>65%</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">Flutter:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 50%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>50%</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">Python:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 40%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>40%</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">Figma / Adobe XD:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>80%</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <span style="width: 150px;">Adobe Photoshop:</span>
-        <div style="width: 100%; background-color: #e0e0e0; border-radius: 4px; margin: 5px;">
-            <div style="width: 75%; background-color: #4caf50; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>75%</span>
-    </div>
-</div>
+**HTML, CSS:** ![90%](https://progress-bar.dev/90)  
+**Bootstrap:** ![80%](https://progress-bar.dev/80)  
+**JavaScript, Angular, TypeScript:** ![65%](https://progress-bar.dev/65)  
+**Flutter:** ![50%](https://progress-bar.dev/50)  
+**Python:** ![40%](https://progress-bar.dev/40)  
+**Figma / Adobe XD:** ![80%](https://progress-bar.dev/80)  
+**Adobe Photoshop:** ![75%](https://progress-bar.dev/75)
 
 ## Languages
 - **English:** Pre-Intermediate B1
