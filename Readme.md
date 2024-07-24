@@ -28,11 +28,10 @@ If you're reading this, you probably want to learn something about me. Here's so
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-75%25-yellowgreen)              
 
 
-| Languages                      | Level                                                                                           |
-|--------------------------------|-----------------------------------------------------------------------------------------------------|
-| **English:**                   | ![English](https://img.shields.io/badge/English-B1-yellow)                                        |
-| **Turkish:**                   | ![Turkish](https://img.shields.io/badge/Turkish-C1-brightgreen)                                   |
-| **Kurdish:**                   | ![Kurdish](https://img.shields.io/badge/Kurdish-B1-yellow)                                        |
+## Languages                      
+![English](https://img.shields.io/badge/English-B1-yellow)  
+![Turkish](https://img.shields.io/badge/Turkish-C1-brightgreen) 
+![Kurdish](https://img.shields.io/badge/Kurdish-B1-yellow)                                        |
 
 ## Contact
 Feel free to reach out to me at the following email address:
