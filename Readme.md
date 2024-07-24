@@ -29,10 +29,12 @@ If you're reading this, you probably want to learn something about me. Here's so
 | **Figma / Adobe XD:**          | ![80%](https://progress-bar.dev/80)                                                                 |
 | **Adobe Photoshop:**           | ![75%](https://progress-bar.dev/75)                                                                 |
 
-## Languages
-- **English:** Pre-Intermediate B1
-- **Turkish:** Advanced C1
-- **Kurdish:** Pre-Intermediate B1
+
+| Languages                      | Level                                                                                           |
+|--------------------------------|-----------------------------------------------------------------------------------------------------|
+| **English:**                   |  Pre-Intermediate B1                                                                                |
+| **Turkish:**                   |  Advanced C1
+| **Kurdish:**                   | Pre-Intermediate B1
 
 ## Contact
 Feel free to reach out to me at the following email address:
