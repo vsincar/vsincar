@@ -18,20 +18,23 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Skills
 
-![HTML, CSS](https://img.shields.io/badge/HTML,%20CSS-90%25-brightgreen)                           
-![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-yellow)                                  
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)                               
-![Flutter](https://img.shields.io/badge/Flutter-50%25-red)                                         
-![TypeScript](https://img.shields.io/badge/TypeScript-40%25-red)                                   
-![Python](https://img.shields.io/badge/Python-40%25-red)                                           
-![Figma / Adobe XD](https://img.shields.io/badge/Figma%20/%20Adobe%20XD-80%25-yellow)              
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-75%25-yellowgreen)              
+| Skill                          | Proficiency                                                                                         |
+|--------------------------------|-----------------------------------------------------------------------------------------------------|
+| **HTML, CSS:**                 | <svg width="100" height="20"><rect width="90" height="20" style="fill:green;"/><rect x="90" width="10" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">90%</text></svg>                           |
+| **Bootstrap:**                 | <svg width="100" height="20"><rect width="80" height="20" style="fill:yellow;"/><rect x="80" width="20" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">80%</text></svg>                                  |
+| **JavaScript:**                | <svg width="100" height="20"><rect width="65" height="20" style="fill:orange;"/><rect x="65" width="35" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">65%</text></svg>                               |
+| **Flutter:**                   | <svg width="100" height="20"><rect width="50" height="20" style="fill:red;"/><rect x="50" width="50" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">50%</text></svg>                                         |
+| **TypeScript:**                | <svg width="100" height="20"><rect width="40" height="20" style="fill:red;"/><rect x="40" width="60" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">40%</text></svg>                                   |
+| **Python:**                    | <svg width="100" height="20"><rect width="40" height="20" style="fill:red;"/><rect x="40" width="60" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">40%</text></svg>                                           |
+| **Figma / Adobe XD:**          | <svg width="100" height="20"><rect width="80" height="20" style="fill:yellow;"/><rect x="80" width="20" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">80%</text></svg>              |
+| **Adobe Photoshop:**           | <svg width="100" height="20"><rect width="75" height="20" style="fill:yellowgreen;"/><rect x="75" width="25" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">75%</text></svg>              |
 
 
-## Languages                      
-![English](https://img.shields.io/badge/English-B1-green)  
-![Turkish](https://img.shields.io/badge/Turkish-C1-blue)
-![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)
+| Languages                      | Level                                                                                           |
+|--------------------------------|-----------------------------------------------------------------------------------------------------|
+| **English:**                   | <svg width="100" height="20"><rect width="50" height="20" style="fill:yellow;"/><rect x="50" width="50" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">B1</text></svg>                                        |
+| **Turkish:**                   | <svg width="100" height="20"><rect width="90" height="20" style="fill:green;"/><rect x="90" width="10" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">C1</text></svg>                                   |
+| **Kurdish:**                   | <svg width="100" height="20"><rect width="50" height="20" style="fill:yellow;"/><rect x="50" width="50" height="20" style="fill:#ddd;"/><text x="45" y="15" fill="black">B1</text></svg>                                        |
 
 ## Contact
 Feel free to reach out to me at the following email address:
