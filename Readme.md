@@ -18,16 +18,14 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Skills
 
-| Skill                          | Proficiency                                                                                         |
-|--------------------------------|-----------------------------------------------------------------------------------------------------|
-| **HTML, CSS:**                 | ![HTML, CSS](https://img.shields.io/badge/HTML,%20CSS-90%25-brightgreen)                           |
-| **Bootstrap:**                 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-yellow)                                  |
-| **JavaScript:**                | ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)                               |
-| **Flutter:**                   | ![Flutter](https://img.shields.io/badge/Flutter-50%25-red)                                         |
-| **TypeScript:**                | ![TypeScript](https://img.shields.io/badge/TypeScript-40%25-red)                                   |
-| **Python:**                    | ![Python](https://img.shields.io/badge/Python-40%25-red)                                           |
-| **Figma / Adobe XD:**          | ![Figma / Adobe XD](https://img.shields.io/badge/Figma%20/%20Adobe%20XD-80%25-yellow)              |
-| **Adobe Photoshop:**           | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-75%25-yellowgreen)              |
+![HTML, CSS](https://img.shields.io/badge/HTML,%20CSS-90%25-brightgreen)                           
+![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-yellow)                                  
+![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)                               
+![Flutter](https://img.shields.io/badge/Flutter-50%25-red)                                         
+![TypeScript](https://img.shields.io/badge/TypeScript-40%25-red)                                   
+![Python](https://img.shields.io/badge/Python-40%25-red)                                           
+![Figma / Adobe XD](https://img.shields.io/badge/Figma%20/%20Adobe%20XD-80%25-yellow)              
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-75%25-yellowgreen)              
 
 
 | Languages                      | Level                                                                                           |
