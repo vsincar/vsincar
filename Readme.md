@@ -30,7 +30,7 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Languages                      
 ![English](https://img.shields.io/badge/English-B1-yellow)  
-![Turkish](https://img.shields.io/badge/Turkish-C1-brightgreen)
+![Turkish](https://img.shields.io/badge/Turkish-C1-blue)
 ![Kurdish](https://img.shields.io/badge/Kurdish-B1-yellow)
 
 ## Contact
