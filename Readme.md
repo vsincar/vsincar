@@ -40,7 +40,4 @@ If you're reading this, you probably want to learn something about me. Here's so
 Feel free to reach out to me at the following email address:
 - Email: vsincar@gmail.com
 
-## Projects
-While I may not have shared many projects on GitHub yet, you can soon find my own projects and applications here.
-
-Thank you, and appreciate your interest! 🚀
+Thank you, and appreciate your interest! 
