@@ -20,24 +20,24 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 | Skill                          | Proficiency                                                                                         |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|
-| **HTML, CSS:**                 | ![90%](https://progress-bar.dev/90)                                                                 |
-| **Bootstrap:**                 | ![80%](https://progress-bar.dev/80)                                                                 |
-| **JavaScript:**                | ![65%](https://progress-bar.dev/65)                                                                 |
-| **Flutter:**                   | ![50%](https://progress-bar.dev/50)                                                                 |
-| **TypeScript:**                | ![40%](https://progress-bar.dev/40)                                                                 |
-| **Python:**                    | ![40%](https://progress-bar.dev/40)                                                                 |
-| **Figma / Adobe XD:**          | ![80%](https://progress-bar.dev/80)                                                                 |
-| **Adobe Photoshop:**           | ![75%](https://progress-bar.dev/75)                                                                 |
+| **HTML, CSS:**                 | ![HTML, CSS](https://img.shields.io/badge/HTML,%20CSS-90%25-brightgreen)                           |
+| **Bootstrap:**                 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-yellow)                                  |
+| **JavaScript:**                | ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)                               |
+| **Flutter:**                   | ![Flutter](https://img.shields.io/badge/Flutter-50%25-red)                                         |
+| **TypeScript:**                | ![TypeScript](https://img.shields.io/badge/TypeScript-40%25-red)                                   |
+| **Python:**                    | ![Python](https://img.shields.io/badge/Python-40%25-red)                                           |
+| **Figma / Adobe XD:**          | ![Figma / Adobe XD](https://img.shields.io/badge/Figma%20/%20Adobe%20XD-80%25-yellow)              |
+| **Adobe Photoshop:**           | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-75%25-yellowgreen)              |
 
 
 | Languages                      | Level                                                                                           |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|
-| **English:**                   |  Pre-Intermediate B1                                                                                |
-| **Turkish:**                   |  Advanced C1
-| **Kurdish:**                   | Pre-Intermediate B1
+| **English:**                   | ![English](https://img.shields.io/badge/English-B1-yellow)                                        |
+| **Turkish:**                   | ![Turkish](https://img.shields.io/badge/Turkish-C1-brightgreen)                                   |
+| **Kurdish:**                   | ![Kurdish](https://img.shields.io/badge/Kurdish-B1-yellow)                                        |
 
 ## Contact
 Feel free to reach out to me at the following email address:
 - Email: vsincar@gmail.com
 
-Thank you, and appreciate your interest! 
+Thank you, and appreciate your interest!
