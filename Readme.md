@@ -29,9 +29,9 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 
 ## Languages                      
-![English](https://img.shields.io/badge/English-B1-yellow)  
+![English](https://img.shields.io/badge/English-B1-green)  
 ![Turkish](https://img.shields.io/badge/Turkish-C1-blue)
-![Kurdish](https://img.shields.io/badge/Kurdish-B1-yellow)
+![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)
 
 ## Contact
 Feel free to reach out to me at the following email address:
