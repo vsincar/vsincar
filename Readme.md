@@ -2,7 +2,7 @@
 
 If you're reading this, you probably want to learn something about me. Here's some information for you:
 
-## About Me
+## About Me 👨‍💻
 **Name:** Veysel Sincar
 
 **Email:** vsincar@gmail.com
@@ -11,12 +11,12 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 **Profession:** Front End Developer
 
-## Interests
+## Interests 
 - I'm a passionate developer interested in application and game programming.
 - Currently learning Flutter, JavaScript and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
-## Skills
+## Skills 🛠️
 
 ![HTML, CSS](https://img.shields.io/badge/HTML,%20CSS-90%25-brightgreen)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-yellow)  
@@ -27,12 +27,12 @@ If you're reading this, you probably want to learn something about me. Here's so
 ![Figma / Adobe XD](https://img.shields.io/badge/Figma%20/%20Adobe%20XD-80%25-yellow)  
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-75%25-yellowgreen)  
 
-## Languages  
+## Languages 🌐
 ![English](https://img.shields.io/badge/English-B1-green)  
 ![Turkish](https://img.shields.io/badge/Turkish-C1-blue)  
 ![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)  
 
-## Contact
+## Contact 📧
 Feel free to reach out to me at the following email address:
 - Email: vsincar@gmail.com
 
