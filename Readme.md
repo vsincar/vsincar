@@ -18,13 +18,14 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Skills
 
-**HTML, CSS:** ![90%](https://progress-bar.dev/90)  
-**Bootstrap:** ![80%](https://progress-bar.dev/80)  
-**JavaScript, Angular, TypeScript:** ![65%](https://progress-bar.dev/65)  
-**Flutter:** ![50%](https://progress-bar.dev/50)  
-**Python:** ![40%](https://progress-bar.dev/40)  
-**Figma / Adobe XD:** ![80%](https://progress-bar.dev/80)  
-**Adobe Photoshop:** ![75%](https://progress-bar.dev/75)
+**HTML, CSS:**            ![90%](https://progress-bar.dev/90)  
+**Bootstrap:**            ![80%](https://progress-bar.dev/80)  
+**JavaScript**            ![65%](https://progress-bar.dev/65)  
+**Angular, TypeScript:**  ![40%](https://progress-bar.dev/40)
+**Flutter:**              ![50%](https://progress-bar.dev/50)  
+**Python:**               ![40%](https://progress-bar.dev/40)  
+**Figma / Adobe XD:**     ![80%](https://progress-bar.dev/80)  
+**Adobe Photoshop:**      ![75%](https://progress-bar.dev/75)
 
 ## Languages
 - **English:** Pre-Intermediate B1
