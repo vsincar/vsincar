@@ -13,7 +13,7 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Interests
 - I'm a passionate developer interested in application and game programming.
-- Currently learning React Native, JavaScript, HTML, and CSS programming languages, and working on various projects.
+- Currently learning Flutter, JavaScript and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
 ## Skills
