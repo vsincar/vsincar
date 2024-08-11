@@ -31,3 +31,6 @@ Feel free to reach out to me at the following email address:
 - Email: vsincar@gmail.com
 
 Thank you, and appreciate your interest!
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vsincar&bg_color=ffffff&color=3cbbfb&line=14b9ff&point=0386bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
