@@ -198,7 +198,7 @@
     </text>
 
     <text x="2" y="12" font-family="Literata" font-size=".22em"
-        fill="#000" font-weight="bold">
+        fill="#AAA" font-weight="bold">
         Hi there!
     </text>
 
