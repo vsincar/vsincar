@@ -1,7 +1,7 @@
 <img src="profile_bg.svg"></img>
 If you're reading this, you probably want to learn something about me. Here's some information for you:
 
-## About Me 👨‍💻
+## About Me 
 **Name:** Veysel Sincar
 
 **Email:** vsincar@gmail.com
@@ -15,7 +15,7 @@ If you're reading this, you probably want to learn something about me. Here's so
 - Currently learning Flutter, JavaScript and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
-## Skills 🛠️
+## Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,figma,ps,xd)](https://skillicons.dev)  
   
