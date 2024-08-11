@@ -37,11 +37,11 @@
         }
 
         .wave:hover {
-        fill: #5457ff;
+        fill: #199dd6;
         }
 
         .drop:hover {
-        fill: #C9FFE5;
+        fill: #7dceff;
         }
 
         .drop {
