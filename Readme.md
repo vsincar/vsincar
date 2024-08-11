@@ -1,4 +1,4 @@
-!<img src="new.svg"></img>
+<img src="new.svg"></img>
 If you're reading this, you probably want to learn something about me. Here's some information for you:
 
 ## About Me 👨‍💻
