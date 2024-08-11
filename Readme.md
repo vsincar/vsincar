@@ -18,6 +18,7 @@ If you're reading this, you probably want to learn something about me. Here's so
 ## Skills 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,figma,ps,xd)](https://skillicons.dev)  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Languages 🌐
