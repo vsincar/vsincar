@@ -16,14 +16,14 @@ If you're reading this, you probably want to learn something about me. Here's so
 - Currently learning Flutter, JavaScript and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
-## Skills 
+## Programing Languages & Apps 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,figma,ps,xd,react)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,flutter,figma,ps,xd)](#)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsincar&layout=compact)](#)
 
 ## Languages 🌐
-[![English](https://img.shields.io/badge/English-B1-green)](#)  
+[![English](https://img.shields.io/badge/English-B1-green)](#)
 [![Turkish](https://img.shields.io/badge/Turkish-C1-blue)](#)
 [![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)](#)
 
