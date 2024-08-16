@@ -177,7 +177,7 @@
             fill="freeze" />
     </path>
 
-    <text x="5" font-family="Literata" font-size=".2em" fill="white"
+    <text x="5" font-family="Literata" font-size=".23em" fill="white"
         font-weight="bold" letter-spacing="1">
         <textPath  xlink:href="#nameTyping">
             Veysel Sincar
@@ -190,7 +190,7 @@
             dur="5.8s" begin="0s" fill="freeze" />
     </path>
 
-    <text x="60" font-family="Literata" font-size=".12em" fill="white"
+    <text x="68" font-family="Literata" font-size=".16em" fill="white"
         text-anchor="end" alignment-baseline="middle">
         <textPath xlink:href="#descriptionTyping">
             UI designer / Front End Developer / Graphic Designer
