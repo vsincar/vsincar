@@ -1,4 +1,5 @@
-<img src="profile_bg.svg"></img>
+[<img src="profile_bg.svg"></img>](#)
+
 If you're reading this, you probably want to learn something about me. Here's some information for you:
 
 ## About Me 
@@ -17,14 +18,14 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,figma,ps,xd)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,figma,ps,xd)](#)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsincar&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsincar&layout=compact)](#)
 
 ## Languages 🌐
-![English](https://img.shields.io/badge/English-B1-green)  
-![Turkish](https://img.shields.io/badge/Turkish-C1-blue)  
-![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)  
+[![English](https://img.shields.io/badge/English-B1-green)](#)  
+[![Turkish](https://img.shields.io/badge/Turkish-C1-blue)](#)
+[![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)](#)
 
 ## Contact 📧
 Feel free to reach out to me at the following email address:
@@ -33,4 +34,4 @@ Feel free to reach out to me at the following email address:
 Thank you, and appreciate your interest!
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vsincar&bg_color=ffffff&color=3cbbfb&line=14b9ff&point=0386bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vsincar&bg_color=ffffff&color=3cbbfb&line=14b9ff&point=0386bf&area=true&hide_border=true)](#)
