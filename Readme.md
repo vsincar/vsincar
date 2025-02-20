@@ -2,7 +2,8 @@
 
 If you're reading this, you probably want to learn something about me. Here's some information for you:
 
-## About Me 
+## About Me
+
 **Name:** Veysel Sincar
 
 **Email:** vsincar@gmail.com
@@ -11,27 +12,30 @@ If you're reading this, you probably want to learn something about me. Here's so
 
 **Profession:** Front End Developer
 
-## Interests 
+## Interests
+
 - I'm a passionate developer interested in application and game programming.
 - Currently learning Flutter, JavaScript and working on various projects.
 - I'm fascinated by new technologies and enjoy working on innovative projects.
 
-## Programing Languages & Apps 
+## Programing Languages & Apps
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,flutter,figma,ps,xd)](#)
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsincar&layout=compact)](#)
 
 ## Languages 🌐
+
 [![English](https://img.shields.io/badge/English-B1-green)](#)
-[![Turkish](https://img.shields.io/badge/Turkish-C1-blue)](#)
 [![Kurdish](https://img.shields.io/badge/Kurdish-B1-green)](#)
+[![Turkish](https://img.shields.io/badge/Turkish-C1-blue)](#)
 
 ## Contact 📧
+
 Feel free to reach out to me at the following email address:
+
 - Email: vsincar@gmail.com
 
 Thank you, and appreciate your interest!
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vsincar&bg_color=ffffff&color=3cbbfb&line=14b9ff&point=0386bf&area=true&hide_border=true)](#)
